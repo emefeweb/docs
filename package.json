@@ -157,7 +157,7 @@
     "postcss": "^8.4.6",
     "prettier": "^2.5.1",
     "replace": "^1.2.1",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.4.1",
     "robots-parser": "^3.0.0",
     "sass": "^1.49.0",
     "start-server-and-test": "^1.14.0",
